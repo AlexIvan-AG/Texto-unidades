@@ -1,0 +1,16 @@
+body{
+    font-size: 30px;
+    background: rgb(220, 205, 250);
+}
+#em{
+    font-size: 2em;
+}
+#ex{
+    font-size: 2ex;
+}
+#aplica_article{
+    font-size: 2em;
+}
+#em2{
+    font-size: 2em;
+}

@@ -1,0 +1,13 @@
+body{
+    font-size: 30px;
+    background: rgb(156, 234, 194);
+}
+#em{
+    font-size: 1em;
+}
+#ex{
+    font-size: 2ex;
+}
+#aplica_article{
+    font-size: 2em;
+}
